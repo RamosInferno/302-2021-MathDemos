@@ -17,7 +17,7 @@ public class RevolveAround : MonoBehaviour
 
         Vector3 offset = new Vector3();
         offset.x = Mathf.Sin(age) * radius;
-        offset.z = Mathf.Cos(age) * radius:
+        offset.z = Mathf.Cos(age) * radius;
         // math
 
         transform.position = target.position + offset;

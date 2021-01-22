@@ -152,3 +152,199 @@ Received Import Request.
 Start importing Assets/Lerp Demo.cs using Guid(8235543c5f0904146b3ca838e850624f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2496d704c7dfe812485881d02aecde8b') in 0.351087 seconds
   Import took 0.384763 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1353.150987 seconds.
+  path: Assets/Scripts/LerpDemo.cs
+  artifactKey: Guid(507e9096bd7026643b7ebf6c1d9aa0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LerpDemo.cs using Guid(507e9096bd7026643b7ebf6c1d9aa0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21cb3cc8847acbe6c2f5c1dfa854024d') in 0.038300 seconds
+  Import took 0.043152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 205.045397 seconds.
+  path: Assets/Scripts/LerpDemo.cs
+  artifactKey: Guid(507e9096bd7026643b7ebf6c1d9aa0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LerpDemo.cs using Guid(507e9096bd7026643b7ebf6c1d9aa0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bdf44cb3442c4584cb78804339147a6') in 0.124075 seconds
+  Import took 0.279411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 150.304121 seconds.
+  path: Assets/Scripts/LerpDemo.cs
+  artifactKey: Guid(507e9096bd7026643b7ebf6c1d9aa0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LerpDemo.cs using Guid(507e9096bd7026643b7ebf6c1d9aa0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b50e01225ee34428da79a36f4c5e60b3') in 0.038260 seconds
+  Import took 0.043071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.986977 seconds.
+  path: Assets/Scripts/LerpDemo.cs
+  artifactKey: Guid(507e9096bd7026643b7ebf6c1d9aa0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LerpDemo.cs using Guid(507e9096bd7026643b7ebf6c1d9aa0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9f4e3b1fe24f64cee41d4f66ab2b69c') in 0.021247 seconds
+  Import took 0.045715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 263.608986 seconds.
+  path: Assets/Scripts/LerpDemo.cs
+  artifactKey: Guid(507e9096bd7026643b7ebf6c1d9aa0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LerpDemo.cs using Guid(507e9096bd7026643b7ebf6c1d9aa0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00a016b603f3db47441c741470576ce3') in 0.038545 seconds
+  Import took 0.063396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.210507 seconds.
+  path: Assets/Scripts/LerpDemo.cs
+  artifactKey: Guid(507e9096bd7026643b7ebf6c1d9aa0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LerpDemo.cs using Guid(507e9096bd7026643b7ebf6c1d9aa0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf7c51ac83b0aa5f149a7f534b4fc2e9') in 0.059973 seconds
+  Import took 0.065188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.204687 seconds.
+  path: Assets/Scripts/LerpDemo.cs
+  artifactKey: Guid(507e9096bd7026643b7ebf6c1d9aa0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LerpDemo.cs using Guid(507e9096bd7026643b7ebf6c1d9aa0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38af66e0fa7edbeb99f7caa832bea244') in 0.065455 seconds
+  Import took 0.147469 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002064 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.649 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1093 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.5 MB.
+System memory in use after: 56.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1543.
+Total: 12.573600 ms (FindLiveObjects: 0.969800 ms CreateObjectMapping: 1.746100 ms MarkObjects: 9.803200 ms  DeleteObjects: 0.048600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.950294 seconds.
+  path: Assets/Scripts/LerpDemo.cs
+  artifactKey: Guid(507e9096bd7026643b7ebf6c1d9aa0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LerpDemo.cs using Guid(507e9096bd7026643b7ebf6c1d9aa0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd01623bae0bca830959271da52191499') in 0.034615 seconds
+  Import took 0.038131 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001258 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.663 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1093 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.7 MB.
+System memory in use after: 56.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1545.
+Total: 2.054000 ms (FindLiveObjects: 0.162800 ms CreateObjectMapping: 0.048500 ms MarkObjects: 1.819200 ms  DeleteObjects: 0.021600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001816 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.857 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1093 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.8 MB.
+System memory in use after: 56.9 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1547.
+Total: 2.494200 ms (FindLiveObjects: 0.220400 ms CreateObjectMapping: 0.055900 ms MarkObjects: 2.188600 ms  DeleteObjects: 0.026900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 232.647276 seconds.
+  path: Assets/Scripts/LerpDemoEditor.cs
+  artifactKey: Guid(ace161ce157473049add1d5e3bcc7de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LerpDemoEditor.cs using Guid(ace161ce157473049add1d5e3bcc7de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '172a170410caf03d06e26599fef20988') in 0.625732 seconds
+  Import took 0.633301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 135.672466 seconds.
+  path: Assets/Scripts/LerpDemoEditor.cs
+  artifactKey: Guid(ace161ce157473049add1d5e3bcc7de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LerpDemoEditor.cs using Guid(ace161ce157473049add1d5e3bcc7de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39701a743101a91e5ab35d7e80601ee0') in 0.080870 seconds
+  Import took 0.099944 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001449 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.535 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1093 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.9 MB.
+System memory in use after: 57.0 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1549.
+Total: 4.062500 ms (FindLiveObjects: 0.311200 ms CreateObjectMapping: 0.120400 ms MarkObjects: 3.530900 ms  DeleteObjects: 0.097500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.564905 seconds.
+  path: Assets/Scripts/LerpDemoEditor.cs
+  artifactKey: Guid(ace161ce157473049add1d5e3bcc7de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LerpDemoEditor.cs using Guid(ace161ce157473049add1d5e3bcc7de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddfdfffba1cd0ab575b2fe5bbe489a11') in 0.012951 seconds
+  Import took 0.140717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 100.930580 seconds.
+  path: Assets/Scripts/SlideTowards.cs
+  artifactKey: Guid(996159970749036419b2115c4904932d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SlideTowards.cs using Guid(996159970749036419b2115c4904932d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79f1144af55b2d36991a04dbb4985b65') in 0.462573 seconds
+  Import took 0.506766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.611182 seconds.
+  path: Assets/Scripts/RevolveAround.cs
+  artifactKey: Guid(5acc74fc8fd1c5644ae2a3b72658d199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RevolveAround.cs using Guid(5acc74fc8fd1c5644ae2a3b72658d199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a658af5eafbdc5c0e4fe9e46f03df545') in 0.125901 seconds
+  Import took 0.140682 seconds .
+

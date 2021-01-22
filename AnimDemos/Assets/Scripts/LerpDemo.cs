@@ -28,18 +28,18 @@ public class LerpDemo : MonoBehaviour
     {
         if (isAnimPlaying) {
 
-            animationPlayheadTime += Time.delta
+            animationPlayheadTime += Time.deltaTime;
             percent = animationPlayheadTime / animationLength;
             percent = Mathf.Clamp(percent, 0, 1);
 
-            percent = percent * percent * (3 - 2 * percent); // ease in is speeding up
+           // percent = percent * percent * (3 - 2 * percent); // ease in is speeding up
 
-            percent = animationCurve.Evaluate(percent, 0, 1);
+            //percent = animationCurve.Evaluate(percent);
 
             float p = animationCurve.Evaluate(percent);
             print(percent);
 
-            DoTheLerp(p);
+            DotheLerp(p);
 
             if (percent >= 1) isAnimPlaying = false;
         }
@@ -47,8 +47,8 @@ public class LerpDemo : MonoBehaviour
     }
     private void DotheLerp(float p)
     {
-       transform.position = AnimMath.Lerp(
-         objectStart.transfom.position, objectEnd.transform.position  )
+        transform.position = AnimMath.Lerp(
+          objectStart.transform.position, objectEnd.transform.position, p);
     }
     public void PlayTweenAnim()
     {

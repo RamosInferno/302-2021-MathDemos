@@ -1,13 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEditor
+using UnityEditor;
 
     [CustomEditor(typeof(LerpDemo))]
 
 public class LerpDemoEditor : Editor
 {
-    override OnInspectorGUI()
+    
+   public override void OnInspectorGUI()
     {
         base.OnInspectorGUI();
 
@@ -17,5 +18,8 @@ public class LerpDemoEditor : Editor
         {
             lerper.PlayTweenAnim();
         }
-    }
+    } 
+
+    
+
 }
