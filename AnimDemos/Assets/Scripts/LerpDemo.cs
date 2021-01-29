@@ -16,6 +16,14 @@ public class LerpDemo : MonoBehaviour
 
     public AnimationCurve animationCurve;
 
+    public float getCurrentPercent
+    {
+        get
+        {
+            return animationPlayheadTime / animationLength;
+        }
+    }
+
 
     // Start is called before the first frame update
     void Start()
@@ -45,7 +53,7 @@ public class LerpDemo : MonoBehaviour
         }
 
     }
-    private void DotheLerp(float p)
+    public void DotheLerp(float p)
     {
         transform.position = AnimMath.Lerp(
           objectStart.transform.position, objectEnd.transform.position, p);
