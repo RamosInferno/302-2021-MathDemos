@@ -4,15 +4,19 @@ using UnityEngine;
 
 public class LerpBetweenTwoPoints : MonoBehaviour
 {
-    // Start is called before the first frame update
+
+    public Transform pointA;
+    public Transform pointB;
+    public float percent;
+
     void Start()
     {
         
     }
 
     // Update is called once per frame
-    void Update()
+    void LateUpdate()
     {
-        
+        transform.position = AnimMath.Lerp(pointA.position, pointB.position, percent);
     }
 }
